@@ -16,6 +16,5 @@ steps:
     resourceGroupName: 'NorwayRG'
     location: 'Norway East'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/zacabrer/vnet/main/VnetTemplate.json'
-    csmParametersFileLink: 'https://raw.githubusercontent.com/zacabrer/vnet/main/VnetParameters.json'
+    csmFileLink: 'https://raw.githubusercontent.com/zacabrer/vnet/main/template2.json'
     deploymentMode: 'Incremental'
